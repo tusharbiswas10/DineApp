@@ -1,0 +1,13 @@
+G:\DineApp\bin\Debug\DineApp.exe.config
+G:\DineApp\bin\Debug\DineApp.exe
+G:\DineApp\bin\Debug\DineApp.pdb
+G:\DineApp\obj\Debug\DineApp.csprojAssemblyReference.cache
+G:\DineApp\obj\Debug\DineApp.Properties.Resources.resources
+G:\DineApp\obj\Debug\DineApp.csproj.GenerateResource.cache
+G:\DineApp\obj\Debug\DineApp.exe
+G:\DineApp\obj\Debug\DineApp.pdb
+G:\DineApp\obj\Debug\DineApp.LogInForm.resources
+G:\DineApp\obj\Debug\DineApp.ManagerEntryForm.resources
+G:\DineApp\obj\Debug\DineApp.OrderForm.resources
+G:\DineApp\obj\Debug\DineApp.MenuForm.resources
+G:\DineApp\obj\Debug\DineApp.UserForm.resources
